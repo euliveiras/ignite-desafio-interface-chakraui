@@ -1,0 +1,26 @@
+{
+  "name": "desafios-ignite-interface-com-chakraui",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@types/react": "^17.0.37",
+    "framer-motion": "^4",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swiper": "^7.3.1",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.4"
+  }
+}
